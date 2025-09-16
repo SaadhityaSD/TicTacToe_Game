@@ -59,7 +59,10 @@
 
 ---
 
-##  Contributing
+##  Connect with Me
+
+🔗[LinkedIn](https://www.linkedin.com/in/saadhitya-sutish/)
+
 
 I am **actively seeking opportunities** to collaborate on exciting projects, open-source contributions, and learning-focused teams.
 If you’d like to suggest improvements or collaborate, feel free to:
@@ -68,17 +71,11 @@ If you’d like to suggest improvements or collaborate, feel free to:
 *  Fork it and create pull requests
 *  Open an issue with your ideas
 
----
-
-##  Connect with Me
-
-🔗 [LinkedIn]([https://www.linkedin.com/in/saadhitya-sutish/])
 
 
 ---
 
 📌 *This project marks an important step in my Java coding journey, and I’m excited to keep building and improving!* 
-
 
 
 
